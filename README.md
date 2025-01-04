@@ -13,21 +13,6 @@ A very basic timer application built using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
-## Demo
-
-### Screenshot
-![Simple Timer Screenshot](https://via.placeholder.com/800x400?text=Simple+Timer+Screenshot)
-
----
-
-## Installation
-
-1. Download the project files or copy the code from the main file.
-2. Save it as `index.html`.
-3. Open the file in any modern web browser.
-
----
-
 ## Code Overview
 
 ### **HTML**
@@ -52,13 +37,3 @@ Handles the timer functionality:
 
 2. **Reset the Timer**:
    - Click the **Reset** button to stop and reset the timer back to `0`.
-
----
-
-## Code Snippet
-
-### HTML
-```html
-<h1 id="timer">0</h1>
-<button onclick="startTimer()">Start</button>
-<button onclick="resetTimer()">Reset</button>

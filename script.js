@@ -12,7 +12,7 @@ function startTimer() {
 
 function resetTimer() {
   clearInterval(timerInterval); 
-  timerInterval = null; D
-  seconds = 0;
+  timerInterval = null; 
+  seconds = 0; 
   document.getElementById('timer').textContent = seconds; 
 }
